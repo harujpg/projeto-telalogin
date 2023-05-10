@@ -1,0 +1,162 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+    background-color: black;
+    
+}
+
+.divlogo{
+    position: absolute;
+    margin-left: 672px;
+    margin-top: 20px;
+    width: 50px;
+}
+
+.logo{
+    width: 400px;
+    height: 400px;
+}
+
+.login{
+    background-color: rgba(165, 165, 165, 0.3);
+    text-align: center;
+    margin-left: 772px;
+    width: 250px;
+    position: absolute;
+    top: 400px;
+}
+
+#usuario{
+    margin-top: 20px;
+}
+
+#senha{
+    margin-top: 7px;
+}
+
+.logar{
+    margin-top: 10px;
+    text-align: center;
+    background-color: #35a769;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    width: 180px;
+}
+
+.cc{
+    text-align: center;
+    color: white;
+}
+
+.es{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-left: 30px;
+}
+
+.cc2{
+    float: left;
+}
+
+.es2{
+    float: right; 
+}
+#links{
+    padding: 10px;
+    width: 180px;
+    font-size: small;
+    margin-bottom: 10px;
+}
+
+#links a{
+    text-decoration: none;
+    color: white;
+}
+
+.recsenha{
+    background-color: rgba(165, 165, 165, 0.3);
+    text-align: center;
+    margin-left: 772px;
+    width: 250px;
+    position: absolute;
+    top: 400px;
+}
+
+#email2{
+    margin-top: 5px;
+}
+
+.texto1{
+    color: white;
+    margin-top: 3px;
+}
+
+.enviar{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #35a769;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    width: 180px;
+}
+
+.cadastro{
+    background-color: rgba(165, 165, 165, 0.3);
+    text-align: center;
+    margin-left: 772px;
+    width: 250px;
+    position: absolute;
+    top: 400px;
+}
+
+#paises{
+    width: 170px;
+    margin-top: 5px;
+}
+
+#nome1{
+    margin-top: 10px;
+}
+
+#email23{
+    margin-top: 5px;
+}
+#senha1{
+    margin-top: 5px;
+}
+
+#senha2{
+    margin-top: 5px;
+    
+}
+
+.cadastrar{
+    margin-top: 10px;
+    text-align: center;
+    background-color: #35a769;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    width: 180px;
+}
+
+.cancelar{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #db3333;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    width: 180px;
+}
+
+input[type=text], [type=password], [type="email"]{
+    height: 23px;
+}
